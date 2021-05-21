@@ -1,5 +1,5 @@
 # Python-Mini-Project
-GPS TRACKER USING PYTHON
+GPS: Track The Route
 
 Requirements:
 Installation:
